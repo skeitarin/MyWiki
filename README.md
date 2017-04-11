@@ -1,4 +1,4 @@
-### [MyWiki](https://github.com/skeitarin/MyWiki/wiki)
+### [MyWiki→](https://github.com/skeitarin/MyWiki/wiki)
 
 #### メモ
 
